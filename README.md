@@ -14,7 +14,7 @@ The following projects are included in this repository:
    - Analyzes customer reviews of British Airways using Tableau to uncover insights into passenger sentiment, service quality, and overall experience.
    - [Project Link](https://github.com/subhocse/DataAnalysisProjects/tree/master/British%20Airways-Tableau)
 
-3. **[Project Name 3]**
+3. **SalesInsights-Tableau**
    - Analyzing sales data using Tableau to uncover key insights into business performance.
    - [Project Link](https://github.com/subhocse/DataAnalysisProjects/tree/master/SalesInsights-Tableau)
 
