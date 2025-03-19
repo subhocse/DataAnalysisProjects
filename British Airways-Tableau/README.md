@@ -19,9 +19,8 @@ Check out the interactive Tableau dashboard here: [British Airways Reviews Dashb
 ## 📁 Repository Structure
 ```
 ├── README.md  # Project documentation
-├── Dataset/   # Source data (if shareable)
-├── Dashboard/ # Tableau workbook (.twbx file)
-├── Images/    # Screenshots of key insights
+├── Dataset   # Source data
+├── Dashboard # Tableau workbook (.twb file)
 ```
 
 ## 🚀 Getting Started
