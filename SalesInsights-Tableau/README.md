@@ -4,8 +4,7 @@
 This project focuses on analyzing **sales data** using **Tableau** to uncover key insights into business performance. The dashboard provides a comprehensive view of sales trends, revenue distribution, and product performance to help drive data-driven decisions.
 
 ## 🔗 Live Dashboard
-Check out the interactive Tableau dashboard here: Check out the interactive Tableau dashboard here: [Sales Analysis Dashboard](https://public.tableau.com/app/profile/subho.ghose/viz/SalesAnalysis_17419702502520/Dashboard){:target="_blank"}
-
+Check out the interactive Tableau dashboard here: [Sales Analysis Dashboard](https://public.tableau.com/app/profile/subho.ghose/viz/SalesAnalysis_17419702502520/Dashboard){:target="_blank"}
 
 ## 🎯 Key Insights
 - **Sales Trends**: Visualizing sales performance over time.
@@ -17,6 +16,7 @@ Check out the interactive Tableau dashboard here: Check out the interactive Tabl
 ## 🛠 Tools & Technologies
 - **Tableau**: Used for data visualization and dashboard creation.
 - **Data Source**: Sales dataset containing transactional records.
+- **SQL**
 
 ## 📁 Repository Structure
 ```
@@ -27,8 +27,7 @@ Check out the interactive Tableau dashboard here: Check out the interactive Tabl
 
 ## 🚀 Getting Started
 To explore the dashboard:
-1. Visit the [Tableau Public Link](https://public.tableau.com/app/profile/subho.ghose/viz/SalesAnalysis_17419702502520/Dashboard) {:target="_blank"}
+1. Visit the [Tableau Public Link](https://public.tableau.com/app/profile/subho.ghose/viz/SalesAnalysis_17419702502520/Dashboard)
 2. Interact with the visualizations to gain insights into sales performance.
 
 ### ⭐ If you found this project useful, consider giving it a star on GitHub! ⭐
-
