@@ -28,5 +28,8 @@ To explore the dashboard:
 1. Visit the [Tableau Public Link](https://public.tableau.com/app/profile/subho.ghose/viz/BritishAirwaysReviews_17424080568110/Dashboard)
 2. Interact with the visualizations to gain insights into the airline's performance.
 
+## Author
+Subho Ghose
+
 ### ⭐ If you found this project useful, consider giving it a star on GitHub! ⭐
 
