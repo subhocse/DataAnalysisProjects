@@ -43,8 +43,6 @@ To view and interact with the Power BI report, you need:
 ## Repository Link
 [GitHub Repository](https://github.com/subhocse/DataAnalysisProjects/tree/master/NBADataAnalysis-PowerBi)
 
-## Author
-Subho Ghose
 
 
 
