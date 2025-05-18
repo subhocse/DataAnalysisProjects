@@ -9,7 +9,6 @@ The repository is organized as follows:
 - `RetailSalesAnalysis-Python/`
   - `RetailSalesAnalysis.ipynb` – Main Jupyter Notebook containing the analysis.
   - `data/` – Directory for datasets used in the analysis.
-  - `images/` – Directory containing visualizations generated during EDA.
   - `README.md` – Project overview and instructions.
 
 ## 📊 Features
@@ -72,9 +71,6 @@ The Jupyter Notebook `RetailSalesAnalysis.ipynb` guides you through the entire a
 
 Datasets used in this analysis are located in the `data/` directory. Ensure that the necessary CSV files are present before running the notebook.
 
-## 🖼️ Visualizations
-
-Visual outputs generated during the analysis are saved in the `images/` directory. These include bar charts, line graphs, heatmaps, and more to support the findings.
 
 ## 🤝 Contributing
 
