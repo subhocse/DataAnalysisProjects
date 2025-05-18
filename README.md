@@ -17,6 +17,9 @@ The following projects are included in this repository:
 3. **SalesInsights-Tableau**
    - Analyzing sales data using Tableau to uncover key insights into business performance.
    - [Project Link](https://github.com/subhocse/DataAnalysisProjects/tree/master/SalesInsights-Tableau)
+4. **SalesInsights-Tableau**
+   - Analyzing Retail-sales data using Python to uncover key insights into business performance.
+   - [Project Link](https://github.com/subhocse/DataAnalysisProjects/tree/master/RetailSalesAnalysis-Python)
 
 (*More projects will be added over time.*)
 
