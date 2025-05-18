@@ -79,11 +79,3 @@ Visual outputs generated during the analysis are saved in the `images/` director
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 📬 Contact
-
-For questions or feedback, please contact [subhocse](https://github.com/subhocse).
